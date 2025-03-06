@@ -15,3 +15,5 @@ all branches are deleted
 
 
 i am in other braanch 
+
+create conflict by other ,other
