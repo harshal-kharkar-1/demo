@@ -16,4 +16,4 @@ all branches are deleted
 
 i am in other braanch 
 
-i am in main brach 
+create conflict by other ,other this time i want to accept the new chanhes 
