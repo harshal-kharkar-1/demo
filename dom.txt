@@ -17,7 +17,10 @@ all branches are deleted
 i am in other braanch 
 
 create conflict by other ,other this time i want to accept the new chanhes 
+<<<<<<< HEAD
 
 
 i am in new bracnh 
 nothing happend 
+=======
+>>>>>>> main

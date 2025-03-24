@@ -1,7 +1,4 @@
 # demo
 testing
 
-
-hi form other branch changes pushexc
-
-merge 
+i  anm in other branch
