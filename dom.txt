@@ -18,9 +18,12 @@ i am in other braanch
 
 create conflict by other ,other this time i want to accept the new chanhes 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 i am in new bracnh 
 nothing happend 
+=======
+>>>>>>> b4cb5a59f5c70d096e19fdbd29e644300982e49d
 =======
 >>>>>>> b4cb5a59f5c70d096e19fdbd29e644300982e49d
