@@ -1,9 +1,10 @@
 # demo
 testing
-new changes made 
 
-creating new b form other called other2 
+i  anm in other branch dfafa
+dadfa
 
-now i am in other 2
- 
-new change made from other2 trying to push code to the main branch form other2
+creating conflict 
+
+
+creating conflict for pull or fetch 
